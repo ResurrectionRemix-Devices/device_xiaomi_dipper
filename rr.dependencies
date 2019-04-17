@@ -1,9 +1,9 @@
 [
   {
     "remote": "github",
-    "repository": "LineageOS/android_device_xiaomi_sdm845-common",
+    "repository": "android_device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common",
-    "branch": "lineage-16.0"
+    "branch": "pie"
   },
   {
     "remote": "github",
@@ -19,7 +19,7 @@
   },
   {
     "remote": "github",
-    "repository": "engrchachi/proprietary_vendor_xiaomi",
+    "repository": "TheMuppets/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch": "lineage-16.0"
   }
