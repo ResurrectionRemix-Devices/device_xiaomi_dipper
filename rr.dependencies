@@ -25,8 +25,8 @@
   },
     {
     "remote": "github"
-    "repository": "packages_dipper_gcam",
-    "target_path": "packages/apps/gcam",
+    "repository": "packages_dipper_GoogleCamera",
+    "target_path": "packages/apps/GoogleCamera",
     "branch": "master",
    
   },
