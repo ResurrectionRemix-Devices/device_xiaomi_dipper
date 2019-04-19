@@ -3,7 +3,7 @@
     "remote": "github",
     "repository": "ResurrectionRemix-Devices/device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common",
-    "branch": "pie"
+    "branch": "pie-dipper"
   },
  {
     "remote":      "github",
@@ -19,7 +19,7 @@
   },
   {
     "remote": "github",
-    "repository": "AOSiP-Devices/proprietary_vendor_xiaomi",
+    "repository": "PixelExperience-Devices/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch": "pie"
   },
