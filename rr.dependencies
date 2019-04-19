@@ -22,6 +22,13 @@
     "repository": "TheMuppets/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch": "lineage-16.0"
-  }
+  },
+    {
+    "remote": "github"
+    "repository": "packages_dipper_gcam",
+    "target_path": "packages/apps/gcam",
+    "branch": "master",
+   
+  },
 
 ]
