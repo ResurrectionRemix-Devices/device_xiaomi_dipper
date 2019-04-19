@@ -19,9 +19,9 @@
   },
   {
     "remote": "github",
-    "repository": "PixelExperience-Devices/vendor_xiaomi",
+    "repository": "TheMuppets/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch": "pie"
+    "branch": "lineage-16.0"
   },
     {
     "remote": "github",
