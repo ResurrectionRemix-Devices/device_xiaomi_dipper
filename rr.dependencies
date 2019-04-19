@@ -24,7 +24,7 @@
     "branch": "pie"
   },
     {
-    "remote": "github"
+    "remote": "github",
     "repository": "packages_dipper_GoogleCamera",
     "target_path": "packages/apps/GoogleCamera",
     "branch": "master",
