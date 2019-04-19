@@ -19,9 +19,9 @@
   },
   {
     "remote": "github",
-    "repository": "TheMuppets/proprietary_vendor_xiaomi",
+    "repository": "AOSiP-Devices/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch": "lineage-16.0"
+    "branch": "pie"
   },
     {
     "remote": "github"
