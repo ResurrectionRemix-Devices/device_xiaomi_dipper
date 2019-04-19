@@ -22,6 +22,15 @@
     "repository": "ResurrectionRemix-Devices/proprietary_vendor_xiaomi-1",
     "target_path": "vendor/xiaomi",
     "branch": "lineage-16.0"
+  },
+  {
+    "remote": "github"
+    "repository": "engrchachi/packages_dipper_GoogleCamera",
+    "target_path": "vendor/xiaomi/sdm845-common/proprietary/priv-app/GoogleCamera",
+    "branch": "master",
+
   }
+  
+  
 
 ]
