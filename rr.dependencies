@@ -25,7 +25,7 @@
   },
     {
     "remote": "github",
-    "repository": "packages_dipper_GoogleCamera",
+    "repository": "engrchachi/packages_dipper_GoogleCamera",
     "target_path": "packages/apps/GoogleCamera",
     "branch": "master"
    
